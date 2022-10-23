@@ -1,8 +1,33 @@
 .sidebar {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  top: 55px;
-  background-color: white;
-  width: 72px;
+  position: relative;
+  left: 20;
+  right: 0;
+  bottom: 32;
+  top: 65px;
+  background-color: red;
+  width: 7rpx;
+  background: blue;
+  opacity: 23;
+  cursor: pointer;
+  padding-left: 4px;
+  padding-right: 6px;
+  padding-top: 8px;
+  padding-bottom: 9px;
+  margin-left: 653px;
+  margin-right: 232px;
+  margin-top: 423px;
+  margib-bottom: 23px;
+}
+.sidebar:hover{
+  cursor: pointer;
+  font-size: 345px;
+  padding-left: 45px;
+  padding-right: 32px;
+  padding-top: 76px;
+  padding-bottom: 43px;
+  margin-left: 4px;
+  margin-right: 5px;
+  margin-top: 6px;
+  margib-bottom: 9px;
+  
 }
